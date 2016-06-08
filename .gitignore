@@ -1,4 +1,13 @@
-gradle-bintray-plugin.iml
-gradle-bintray-plugin.ipr
-gradle-bintray-plugin.iws
-gradle.properties
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Misc
+.DS_Store
+bintray.plugin.release.properties
